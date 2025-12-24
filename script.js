@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bustago
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tark1998/bustago-popupblcoker
 // @version      2025-12-24
 // @description  Block every custom popup and confirm message of Bustago
 // @author       You
