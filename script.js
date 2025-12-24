@@ -2,7 +2,7 @@
 // @name         Bustago
 // @namespace    http://tampermonkey.net/
 // @version      2025-12-24
-// @description  try to take over the world!
+// @description  Block every custom popup and confirm message of Bustago
 // @author       You
 // @match        https://www.bustago.or.kr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=or.kr
