@@ -40,6 +40,11 @@
     }
     addJS_Node (terLayerAlert);
 
+    function layerAlert(str) {
+        return
+    }
+    addJS_Node (layerAlert);
+    
     function addJS_Node (text, s_URL, funcToRun, runOnLoad) {
         var D                                   = document;
         var scriptNode                          = D.createElement ('script');
